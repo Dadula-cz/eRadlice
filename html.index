@@ -1,4 +1,9 @@
-<!DOCTYPEhtml>
-<body>
-  <header>
-<h1>eRadlice<h1>
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, inital-scale=1.0>
+<title>eRadlice</title>
+<link rel="stylesheet" herf="style.css">
+</head>
+
